@@ -2,7 +2,6 @@
 
 Original **English** digital packs for **US indie hackers**. Fulfillment is markdown + HTML in each folder. No ShipFast (or other starter-kit) clones, no ad-spend playbooks, no spam scripts, **no invented revenue**.
 
-Catalog: [index.html](./index.html)  
 Repository: https://github.com/dan116is/indie-offer-lab
 
 ## Pay
@@ -59,6 +58,8 @@ Each of these folders contains `index.html` (English landing, memo = slug, Base 
 | [base-usdc-payblock](./base-usdc-payblock/) | $5 | Copy-paste Base USDC pay instructions |
 | [launch-day-checklist](./launch-day-checklist/) | $9 | Launch-day checklist |
 | [who-pain-time](./who-pain-time/) | $5 | WHO / PAIN / TIME positioning worksheet |
+
+Older or extra folders, if present, are left in place.
 
 ## Catalog — SKUs 15–20
 
