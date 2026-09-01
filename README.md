@@ -19,6 +19,7 @@ Subject: `ORDER <slug>`
 
 Base USDC only. Do not send ETH, USDT, or another chain.
 
+
 ## Worldwide B2B micro-SKUs
 
 English packs for small businesses worldwide (not Israel-only). No spam, no fake revenue, no brand clones.
@@ -61,6 +62,7 @@ Each of these folders contains `index.html` (English landing, memo = slug, Base 
 
 Older or extra folders, if present, are left in place.
 
+
 ## Catalog — SKUs 15–20
 
 | Slug | Price | What you get |
@@ -72,7 +74,26 @@ Older or extra folders, if present, are left in place.
 | [onboarding-email-5](./onboarding-email-5/) | $12 | 5-email onboarding templates for **your** list (we do not send) |
 | [founder-update](./founder-update/) | $9 | Monthly founder update template |
 
-Also see [index.html](./index.html) for the numbered 1–20 table.
+Also see [index.html](./index.html) for the numbered table.
+
+## Catalog — SKUs 21–30 (B2B / indie operators, worldwide English)
+
+Original files. Not empty landings. Not Israel-only. Not ShipFast clones. No spend, no spam, no fake $5k claims.
+
+| # | Slug | Price | What you get |
+|---|---|---|---|
+| 21 | [onboarding-checklist](./onboarding-checklist/) | $12 | Day-0/7/14 first-win onboarding checklist |
+| 22 | [discovery-call-script](./discovery-call-script/) | $19 | 45-minute inbound discovery agenda + score sheet |
+| 23 | [case-study-template](./case-study-template/) | $15 | Permission-first case study skeleton |
+| 24 | [price-increase-email](./price-increase-email/) | $19 | Price-rise emails + grandfather worksheet |
+| 25 | [churn-save-email](./churn-save-email/) | $19 | Honor-the-stop save emails (one alternative) |
+| 26 | [hiring-scorecard](./hiring-scorecard/) | $15 | Paid work-sample scorecard for first operator |
+| 27 | [content-calendar-30](./content-calendar-30/) | $12 | 30-day owned-channel calendar (not ads) |
+| 28 | [competitor-ad-teardown](./competitor-ad-teardown/) | $19 | Public-ad teardown so you *do not* clone |
+| 29 | [webinar-outline](./webinar-outline/) | $15 | 60-minute teaching webinar (not a funnel) |
+| 30 | [referral-ask-pack](./referral-ask-pack/) | $12 | One-ask referral stubs for existing buyers |
+
+Each folder is complete `PRODUCT.md` + short `index.html` with pay block. Pay memo = slug.
 
 ## License
 
