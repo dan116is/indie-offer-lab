@@ -12,27 +12,55 @@ Send **USDC on Base** (chain id `8453`) to:
 
 Token (USDC on Base): `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913`
 
-ERC-20 has **no memo field**. Put `memo=<slug>` in email with the transaction hash.
+ERC-20 has **no memo field**. Put the **folder slug** in your order email with the transaction hash (pay memo = slug).
 
 Orders: [agent-0af2826d2bd111cc@agentmail.to](mailto:agent-0af2826d2bd111cc@agentmail.to)  
 Subject: `ORDER <slug>`
 
-## Catalog (this drop)
+Base USDC only. Do not send ETH, USDT, or another chain.
 
-| # | Slug | Price | What you get |
-|---|---|---|---|
-| 8 | [competitor-teardown](./competitor-teardown/) | $12 | Teardown protocol + fictional QuietHour/DeskPing example |
-| 9 | [refund-terms](./refund-terms/) | $9 | Refund/terms snippets for $9–$49 digital goods (**not legal advice**) |
-| 10 | [indie-faq](./indie-faq/) | $9 | FAQ pack for digital SKUs |
-| 11 | [shareable-feature-list](./shareable-feature-list/) | $9 | 25 screenshot-able feature prompts |
-| 12 | [base-usdc-payblock](./base-usdc-payblock/) | $5 | Copy-paste Base USDC pay instructions (original) |
-| 13 | [launch-day-checklist](./launch-day-checklist/) | $9 | Launch-day checklist (no spend, no fake waitlists) |
-| 14 | [who-pain-time](./who-pain-time/) | $5 | WHO / PAIN / TIME positioning worksheet |
+## Worldwide B2B micro-SKUs
 
-Each offer folder contains `index.html` and a complete `PRODUCT.md`.
+English packs for small businesses worldwide (not Israel-only). No spam, no fake revenue, no brand clones.
 
-Older folders, if present, are left in place.
+| SKU | Price | For |
+|-----|-------|-----|
+| [invoice-followup-emails](./invoice-followup-emails/) | $12 | Follow-ups for invoices you already issued |
+| [client-proposal-pack](./client-proposal-pack/) | $19 | One-page scoped proposals |
+| [google-business-posts](./google-business-posts/) | $9 | Factual local-profile posts (independent; not affiliated with Google) |
+| [meeting-sop](./meeting-sop/) | $9 | Recurring 25-minute meeting SOP |
+| [freelance-contract-lite](./freelance-contract-lite/) | $12 | Work-order sheet · **NOT LEGAL ADVICE** |
+
+Each folder is `PRODUCT.md` + `index.html`. Pay memo = slug.
+
+## Catalog — core 7
+
+| Slug | Price | What you get |
+|---|---|---|
+| [first-dollar-offer](./first-dollar-offer/) | $9 | Worksheet to pick who / pain / price |
+| [x-launch-threads](./x-launch-threads/) | $12 | 10 original launch-thread templates (not copied tweets) |
+| [pricing-ladder](./pricing-ladder/) | $9 | One-time vs monthly ladder worksheet |
+| [waitlist-copy](./waitlist-copy/) | $9 | Waitlist landing copy blocks |
+| [bip-30-calendar](./bip-30-calendar/) | $9 | 30-day build-in-public calendar |
+| [about-page-copy](./about-page-copy/) | $9 | Indie about-page copy blocks |
+| [interview-scripts](./interview-scripts/) | $12 | 8 customer interview scripts |
+
+Each of these folders contains `index.html` (English landing, memo = slug, Base USDC) and a complete `PRODUCT.md`.
+
+## Other packs in this repo (sibling drops; not wiped)
+
+| Slug | Price | What you get |
+|---|---|---|
+| [competitor-teardown](./competitor-teardown/) | $12 | Teardown protocol + fictional QuietHour/DeskPing example |
+| [refund-terms](./refund-terms/) | $9 | Refund/terms snippets for $9–$49 digital goods (**not legal advice**) |
+| [indie-faq](./indie-faq/) | $9 | FAQ pack for digital SKUs |
+| [shareable-feature-list](./shareable-feature-list/) | $9 | 25 screenshot-able feature prompts |
+| [base-usdc-payblock](./base-usdc-payblock/) | $5 | Copy-paste Base USDC pay instructions |
+| [launch-day-checklist](./launch-day-checklist/) | $9 | Launch-day checklist |
+| [who-pain-time](./who-pain-time/) | $5 | WHO / PAIN / TIME positioning worksheet |
+
+Older or extra folders, if present, are left in place.
 
 ## License
 
-Browse the repo to evaluate. Paid license for reuse in your products is described inside each pack. Do not republish a pack as a competing download.
+Browse the repo to evaluate. Do not republish a pack as a competing download.
