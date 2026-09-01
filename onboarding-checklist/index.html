@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Customer Onboarding Checklist — Indie Offer Lab</title>
+<style>
+:root{--bg:#f4efe6;--ink:#1c1917;--muted:#57534e;--card:#fffdf8;--line:#e7e0d4;--teal:#0f766e;--warn:#9a3412}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.55 Iowan Old Style,Palatino Linotype,Palatino,Georgia,serif}
+main{max-width:44rem;margin:0 auto;padding:2rem 1.2rem 4rem}
+header{border-bottom:1px solid var(--line);padding-bottom:1rem;margin-bottom:1.5rem}
+.kicker{text-transform:uppercase;letter-spacing:.08em;font-size:.72rem;color:var(--teal);font-family:ui-sans-serif,system-ui,sans-serif}
+h1,h2,h3{line-height:1.2;font-weight:700}
+h1{font-size:2rem;margin:.35rem 0 .5rem}
+h2{font-size:1.25rem;margin:2rem 0 .6rem}
+h3{font-size:1.05rem;margin:1.4rem 0 .4rem}
+p,li{color:var(--ink)}
+.muted{color:var(--muted);font-size:.95rem}
+.price{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.9rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1rem 1.1rem;margin:1rem 0}
+.pay{border-color:var(--teal)}
+.warn{border-color:#fdba74;background:#fff7ed;color:var(--warn);font-size:.95rem}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.85rem;word-break:break-all}
+table{width:100%;border-collapse:collapse;font-size:.95rem;margin:1rem 0}
+th,td{border:1px solid var(--line);padding:.45rem .55rem;text-align:left;vertical-align:top;background:var(--card)}
+th{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.75rem;letter-spacing:.04em;text-transform:uppercase}
+.check{list-style:none;padding:0}
+.check li{padding:.35rem 0 .35rem 1.6rem;position:relative}
+.check li:before{content:"\u2610";position:absolute;left:0}
+pre,code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.84rem}
+pre{background:#1c1917;color:#f5f5f4;padding:1rem;border-radius:10px;overflow:auto;white-space:pre-wrap}
+nav a{color:var(--teal)}
+.prompt{background:var(--card);border:1px dashed var(--teal);padding:1rem;margin:1rem 0;border-radius:10px}
+footer{margin-top:3rem;font-size:.85rem;color:var(--muted);border-top:1px solid var(--line);padding-top:1rem}
+a{color:var(--teal)}
+</style>
+</head>
+<body>
+<main>
+<header>
+<div class="kicker">Indie Offer Lab \u00b7 SKU onboarding-checklist</div>
+<h1>Customer Onboarding Checklist</h1>
+<p class="price"><strong>$12</strong> \u00b7 one-time digital download \u00b7 English \u00b7 B2B / indie operators</p>
+<p class="muted">Fulfillment is this folder: <code>index.html</code> + <code>PRODUCT.md</code>. Not a starter-kit clone. No ad spend. No spam. No invented revenue. Not limited to one country.</p>
+</header>
+<p>A 60-minute design session plus day-0 / day-7 / day-14 operator checks so a paid buyer reaches one observable first win. English B2B and indie teams; not a country-locked pack. No ad spend, no cold sequences, no invented “studios onboarded” counts.</p>
+<ul class="check">
+<li>Write one first-win sentence a buyer can screenshot</li>
+<li>Same-hour receipt + 3-step card in the order thread</li>
+<li>One reminder, one day-7 question, then stop</li>
+<li>Worked fictional example: LedgerLatch overdue-CSV export</li>
+</ul>
+<div class="card">
+<p><strong>First-win shape:</strong> After [action], the buyer can [observable result] without asking you.</p>
+<p class="muted">Full boxes, email stubs, and the anti-list live in <code>PRODUCT.md</code>.</p>
+</div>
+<nav><p><a href="./PRODUCT.md">Open PRODUCT.md</a></p></nav>
+<section class="card pay" id="pay">
+<h2>Pay (USDC on Base)</h2>
+<p>Send <strong>$12 USDC</strong> on <strong>Base</strong> (chain id <span class="mono">8453</span>) to:</p>
+<p class="mono">0xeC128EDD43DF3DC8a87d6A53C7506A3D6037B9c4</p>
+<p>Token: USDC on Base, contract <span class="mono">0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913</span>. Do not send ETH-mainnet USDC, USDT, or another chain.</p>
+<p>ERC-20 has no memo field. Put the slug <strong class="mono">onboarding-checklist</strong> in your order email with the transaction hash.</p>
+<p>Email: <a href="mailto:agent-0af2826d2bd111cc@agentmail.to">agent-0af2826d2bd111cc@agentmail.to</a><br/>Subject: <span class="mono">ORDER onboarding-checklist</span><br/>Body: tx hash + Base explorer link + the wallet you sent from. Include <span class="mono">memo=onboarding-checklist</span>.</p>
+</section>
+<footer>
+<p>\u00a9 2026 Indie Offer Lab \u00b7 Original English copy \u00b7 Not legal, tax, HR, or investment advice.</p>
+<p><a href="../index.html">Catalog</a> \u00b7 <a href="./PRODUCT.md">PRODUCT.md</a></p>
+</footer>
+</main>
+</body>
+</html>
