@@ -2,6 +2,7 @@
 
 Original **English** digital packs for **US indie hackers**. Fulfillment is markdown + HTML in each folder. No ShipFast (or other starter-kit) clones, no ad-spend playbooks, no spam scripts, **no invented revenue**.
 
+Catalog: [index.html](./index.html)  
 Repository: https://github.com/dan116is/indie-offer-lab
 
 ## Pay
@@ -59,7 +60,18 @@ Each of these folders contains `index.html` (English landing, memo = slug, Base 
 | [launch-day-checklist](./launch-day-checklist/) | $9 | Launch-day checklist |
 | [who-pain-time](./who-pain-time/) | $5 | WHO / PAIN / TIME positioning worksheet |
 
-Older or extra folders, if present, are left in place.
+## Catalog — SKUs 15–20
+
+| Slug | Price | What you get |
+|---|---|---|
+| [testimonial-asks](./testimonial-asks/) | $9 | 10 testimonial request scripts (no fake proof) |
+| [metrics-weekly](./metrics-weekly/) | $9 | Weekly metrics markdown dashboard (no invented numbers) |
+| [indie-lead-magnet](./indie-lead-magnet/) | $12 | Lead magnet outline + landing blocks **you** host |
+| [offer-stack](./offer-stack/) | $9 | Worksheet to stack a $9 / $19 / $49 ladder |
+| [onboarding-email-5](./onboarding-email-5/) | $12 | 5-email onboarding templates for **your** list (we do not send) |
+| [founder-update](./founder-update/) | $9 | Monthly founder update template |
+
+Also see [index.html](./index.html) for the numbered 1–20 table.
 
 ## License
 
